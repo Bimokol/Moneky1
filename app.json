@@ -21,6 +21,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "owner": "bimokol",
+    "extra": {
+      "eas": {
+        "projectId": "4bf248df-6f65-4c96-b512-67a56b6bd25c"
+      }
     }
   }
 }
